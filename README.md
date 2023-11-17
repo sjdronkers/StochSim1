@@ -1,2 +1,4 @@
-# StochSim1
-First assignment for Stochastic Simulation
+# Stochastic Simulation Assignment 1
+
+
+Using Monte-Carlo simulations to estima
